@@ -21,9 +21,8 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal,professional,business,mentoring"
     info = "Full-Stack Mobile Developer & Mentor"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Enter a text here."
 
-    dateformat = "January 2, 2006"
+    dateformat = "2 January 2006"
 
     hideCredits = false
     hideCopyright = false
