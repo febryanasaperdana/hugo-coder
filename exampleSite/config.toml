@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "Febryan Asa Perdana | Mobile UX/UI & App Developer, Backend & DevOps Engineer, and Mentor"
+title = "Febryan Asa Perdana"
 
 theme = "hugo-coder"
 
@@ -16,10 +16,10 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    author = "Febryan Asa Perdana"
+    description = "Febryan Asa Perdana's professional website"
+    keywords = "blog,developer,personal,professional,business,mentoring"
+    info = "Full-Stack Mobile Developer & Mentor"
     avatarurl = "images/avatar.jpg"
     footercontent = "Enter a text here."
 
