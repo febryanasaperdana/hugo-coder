@@ -18,8 +18,8 @@ disqusShortname = "yourdiscussshortname"
 [params]
     author = "Febryan Asa Perdana"
     description = "Febryan Asa Perdana's professional website"
-    keywords = "blog,developer,personal,professional,business,mentoring"
-    info = "Full-Stack Mobile Developer & Mentor"
+    keywords = "blog,developer,personal,professional,business,mentoring,product,engineer,freelance,android,mobile app"
+    info = "Product Engineer & Mentor"
     avatarurl = "images/avatar.jpg"
 
     dateformat = "2 January 2006"
